@@ -13,7 +13,7 @@ hama = """
 \033[32m╱╱┃┃┃╭━╮┃┃┃┃┃┃╭━╮┃
 \033[32m╱╱╰╯╰╯╱╰┻╯╰╯╰┻╯╱╰╯
 \033[96m
-TB/Am Toola La layan </PRO • 7AMA> Drust Krawa bakar dey bo rekxstny Ish shellakat/n bo har keshak 👇🏻
+TB/Am Toola La layan </SHELL • 7AMA> Drust Krawa bakar dey bo rekxstny Ish shellakat/n bo har keshak 👇🏻
 \033[93m========================================
 \033[92mTelegramProfile/xxxHAMAxxx
 ^^^^^^^^^^^^^^^^^^^
@@ -28,7 +28,7 @@ kat.sleep(1)
 HAMA('apk update ; apk upgrade ; apk add python ; apk add python2 ; apk add ruby ; apk add git ; apk add php ; apk add perl ; apk add nmap ; apk add bash ; apk add clang ; apk add macchanger')
 print'\033[33m===\033[96m36%'
 kat.sleep(1)
-HAMA('apk add nano ; apk add figlet ; apk add cowsay ; apk add curl ; apk add tar')
+HAMA('apk add nano ; apk add figlet ; apk add cowsay ; apk add curl ; apk add tar ; apk add py-pip')
 print'\033[33m====\033[92m47%'
 kat.sleep(1)
 HAMA('apk add zip ; apk add unzip ; apk add tor ; apk add sudo ; apk add wget')
