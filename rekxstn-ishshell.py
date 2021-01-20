@@ -45,6 +45,9 @@ print'\033[33m========\033[95m96%'
 HAMA('apk add python3 ; apk add py-pip')
 print'\033[33m=========\033[96m100%'
 HAMA('cd .. ; mkdir HAMA ; cd HAMA ; touch AM ISHSHELL REKXRA LALAYAN </PRO • 7AMA>')
+HAMA('cd ; cd .. ; cd etc ; rm -rif motd ')
+HAMA('cd ; cd rekxstn-ishshell ; mv motd $HOME ; mv motd /etc')
+
 print"""
 \033[91md8888b.  .d88b.  d8b   db d88888b 
 \033[31m88  `8D .8P  Y8. 888o  88 88'     
