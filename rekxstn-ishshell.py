@@ -13,9 +13,9 @@ hama = """
 \033[32m╱╱┃┃┃╭━╮┃┃┃┃┃┃╭━╮┃
 \033[32m╱╱╰╯╰╯╱╰┻╯╰╯╰┻╯╱╰╯
 \033[96m
-TB/Am Toola La layan </SHELL • 7AMA> Drust Krawa bakar dey bo rekxstny Ish shellakat/n bo har keshak 👇🏻
+TB/Am Toola La layan 7AMA.py Drust Krawa bakar dey bo rekxstny Ish shellakat\n bo har keshak 👇🏻
 \033[93m========================================
-\033[92mTelegramProfile/xxxHAMAxxx
+\033[92mTelegramProfile/hex_3
 ^^^^^^^^^^^^^^^^^^^
 \033[92mDiscord.Server/https://discord.gg/TK58aqRYCU
 \033[93m========================================
@@ -44,9 +44,8 @@ HAMA('apk add g++ ; apk add gcc')
 print'\033[33m========\033[95m96%'
 HAMA('apk add python3 ; apk add py-pip')
 print'\033[33m=========\033[96m100%'
-HAMA('cd .. ; mkdir HAMA ; cd HAMA ; touch AM ISHSHELL REKXRA LALAYAN </PRO • 7AMA>')
-HAMA('cd ; cd .. ; cd etc ; rm -rif motd ')
-HAMA('cd ; cd rekxstn-ishshell ; mv motd $HOME ; cp motd /etc')
+HAMA('cd .. ; mkdir HAMA ; cd HAMA ; touch AM ISHSHELL REKXRA LALAYAN 7AMA.py')
+HAMA('cd ; cd /etc ; rm -rif motd ; cd ; cd rekxstn-ishshell ; mv motd $HOME ; cp motd /etc')
 
 print"""
 \033[91md8888b.  .d88b.  d8b   db d88888b 
